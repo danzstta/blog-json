@@ -1,0 +1,38 @@
+{
+  "name": "JejakUmurku",
+  "short_name": "JejakUmurku",
+  "start_url": "https://www.jejakumurku.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Semua Info wisata dan Info Menarik Lainnya ",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-JCsU2E0Gsjo/XXRsSPf3u4I/AAAAAAAAIHE/RC8LOuLBeG4aad9OUmL-8gqHclYj-zMigCLcBGAs/s1600/favicon-48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-iRoihD0HCI0/XXRsSzkVzsI/AAAAAAAAIHM/vxX0b9xHkgcMd6cVoQPzzhxGutYADgZhQCLcBGAs/s1600/favicon-72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-EeIBUlqJN_E/XXRsTLf7UII/AAAAAAAAIHQ/LAcmR_86lhUXPcZSd8xYMYwINfJqw2PWwCLcBGAs/s1600/favicon-96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Shk9-zcPOOQ/XXRsRAzt2XI/AAAAAAAAIHA/lEzWqgjhGcsFST8r8W2ysOJjVIrWxvLrQCLcBGAs/s1600/favicon-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tpJNRV_7uHg/XXRsRF23F5I/AAAAAAAAIG8/yUd0QEcjtRYz0c61FAN439sLnZiq0wI4QCLcBGAs/s1600/favicon-168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-grvieAKxtYE/XXRsQ_ggbOI/AAAAAAAAIG4/a-TzmEW7UqkqmTfxCYw8tLUtD0C5LZMtACLcBGAs/s1600/favicon-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5bFLe1eQpEw/XXRsSoXLekI/AAAAAAAAIHI/QilC9HR5CNsWB-PzBnKPwwX5lk2QUebKgCLcBGAs/s320/favicon-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
